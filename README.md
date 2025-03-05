@@ -2,21 +2,19 @@
 <h1 align="center">Amy Schalesky</h1>
 <h3 align="center">Data Analyst | Data Scientist</h3>
 
-- 📫 How to reach me **a.schalesky1@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <table>
   <tr>
     <td>
-      <a href="https://linkedin.com/in/aschalesky" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn @ aschalesky" height="30" width="40"/>
-        <br>LinkedIn @ aschalesky
+      <a href="mailto:a.schalesky1@gmail.com" target="blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="a.schalesky1@gmail.com" height="30" width="40" />
+        <br>a.schalesky1@gmail.com
       </a>
     </td>
     <td>
-      <a href="mailto:a.schalesky1@gmail.com" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle @ amyschalesky" height="30" width="40" />
-        <br>Kaggle @ amyschalesky
+      <a href="https://linkedin.com/in/aschalesky" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn @ aschalesky" height="30" width="40"/>
+        <br>LinkedIn @ aschalesky
       </a>
     </td>
   </tr>
