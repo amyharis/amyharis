@@ -1,4 +1,4 @@
-![Amy Schalesky, Data Scientist](banner.png)
+![Amy Schalesky, Data Scientist](Banner.png)
 <h1 align="center">Amy Schalesky</h1>
 <h3 align="center">Data Analyst | Data Scientist</h3>
 
