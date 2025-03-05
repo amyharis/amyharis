@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle @ amyschalesky" height="30" width="40" />
+![Amy Schalesky, Data Scientist](banner.png)
 <h1 align="center">Amy Schalesky</h1>
 <h3 align="center">Data Analyst | Data Scientist</h3>
 
