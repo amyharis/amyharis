@@ -24,9 +24,9 @@
 <table>
   <tr>
     <td>
-      <a href="https://linkedin.com/in/aschalesky" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn @ aschalesky" height="30" width="40"/>
-        <br>LinkedIn @ aschalesky
+      <a href="https://public.tableau.com/app/profile/amy.schalesky/vizzes" target="blank">
+        <img src="/tableau-icon-svgrepo-com.svg" alt="Tableau Public @ amy.schalesky" height="30" width="40"/>
+        <br>Tableau Public @ amy.schalesky
       </a>
     </td>
     <td>
